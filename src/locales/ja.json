@@ -1,0 +1,707 @@
+{
+  "meta": {
+    "lang": "ja",
+    "label": "日本語",
+    "title": "ナヒッド タムジド ハサン | AI・コンピュータビジョン 研究開発エンジニア"
+  },
+  "nav": {
+    "brand": "Tamzid",
+    "about": "自己紹介",
+    "experience": "職務経歴",
+    "projects": "実績",
+    "publications": "論文",
+    "contact": "連絡先",
+    "resume": "履歴書・経歴書",
+    "education": "学歴",
+    "certifications": "資格・研修",
+    "cvOptions": [
+      {
+        "label": "履歴書 (Japanese Resume)",
+        "href": "/cv/Tamzid_Rirekisho_JP.pdf"
+      },
+      {
+        "label": "職務経歴書 (Work History)",
+        "href": "/cv/Nahid_Tamzid_Hasan_Shokumukeirekisho_JP.pdf"
+      },
+      {
+        "label": "English CV (英文履歴書)",
+        "href": "/cv/Nahid_Tamzid_Hasan_CV_EN.pdf"
+      }
+    ],
+    "eduResearch": "学歴・研究"
+  },
+  "hero": {
+    "greeting": "はじめまして、",
+    "name": "ナヒッド タムジド ハサン",
+    "tagline": "AI・コンピュータビジョンエンジニア ／ 組込み・フルスタック開発",
+    "summary": "トヨタ自動車 東富士研究所（株式会社BREXA Technologyより配属）にてモビリティ分野のAI・画像認識システムを開発中。ヤマハ発動機ロボティクスでのC++産業用ロボット開発や京都でのクラウドWeb開発の経験を活かし、研究検証から実用システム展開まで日英両言語で推進します。",
+    "location": "静岡県沼津市",
+    "visa": "在留資格：技術・人文知識・国際業務（有効期限：2028年5月21日）",
+    "ctaPrimary": "実績を見る",
+    "ctaContact": "お問い合わせ"
+  },
+  "stats": [
+    {
+      "value": "トヨタ自動車 東富士研究所",
+      "label": "現職 AIエンジニア（BREXA Technology配属）"
+    },
+    {
+      "value": "{{AUTO_EXP}}",
+      "label": "AI・画像認識 / C++制御 / クラウド開発"
+    },
+    {
+      "value": "IEEE論文2件・学部長賞3回",
+      "label": "クルナ工科大学 CSE卒業（GPA 3.78）"
+    },
+    {
+      "value": "4ヶ国語対応",
+      "label": "EN (TOEIC 985) · JA (N2相当会話) · ベンガル語 · ヒンディー語"
+    }
+  ],
+  "about": {
+    "title": "自己紹介",
+    "paragraphs": [
+      "静岡県を拠点に活動するコンピュータビジョン・応用機械学習エンジニアです。モビリティ分野のAI研究開発、産業用ロボット制御ソフトウェア（C++）、大規模クラウドWebサービス開発まで幅広い実務経験を有しています。",
+      "現在は株式会社BREXA Technologyよりトヨタ自動車株式会社 東富士研究所に配属され、車載カメラ画像を用いた道路冠水判定や映像解析・アノテーション自動化技術の研究・実装・社内知財プロセス対応に従事しています。",
+      "前職ではヤマハ発動機ロボティクス株式会社にて表面実装機（マウンタ）向けC++ソフトウェア開発を、京都の株式会社クラウドクリエイティブスタジオでは13万人以上が利用するクラウド管理基盤のフルスタック開発を担当しました。"
+    ],
+    "skillsTitle": "技術スタック",
+    "skillGroups": [
+      {
+        "category": "AI・機械学習・画像認識",
+        "items": [
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "Keras",
+          "scikit-learn",
+          "Hugging Face",
+          "LLM",
+          "RAG",
+          "YOLO / YOLOP",
+          "ResNet",
+          "OpenCV",
+          "GNN / SVM",
+          "OCR・物体追跡",
+          "合成データ生成",
+          "Pandas / NumPy"
+        ]
+      },
+      {
+        "category": "バックエンド・制御・モバイル",
+        "items": [
+          "C / C++",
+          "C# / ASP.NET",
+          "Django",
+          "Flask",
+          "PHP / Laravel",
+          "REST API",
+          "Java / Android",
+          "MVVM / Room / LiveData",
+          "Visual Studio",
+          "Swift / iOS / Flutter",
+          "OpenGL / Pygame"
+        ]
+      },
+      {
+        "category": "フロントエンド・クラウド・DB",
+        "items": [
+          "React",
+          "TypeScript",
+          "JavaScript",
+          "HTML5 / CSS3",
+          "Tailwind CSS",
+          "Bootstrap",
+          "Microsoft Azure",
+          "AWS (S3, Cloud9)",
+          "Cosmos DB",
+          "PostgreSQL / MySQL / Oracle",
+          "MongoDB / Redis",
+          "Firebase / SQLite",
+          "Git / GitHub Actions / CI/CD",
+          "Perforce / JIRA / Redmine"
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "title": "職務経歴",
+    "items": [
+      {
+        "id": "toyota",
+        "company": "トヨタ自動車 東富士研究所",
+        "fullCompany": "株式会社BREXA Technology（配属先：トヨタ自動車株式会社 東富士研究所）",
+        "role": "AIエンジニア — モビリティ分野 画像認識・研究開発",
+        "period": "2026年1月 – 現在",
+        "location": "静岡県裾野市",
+        "overview": "トヨタ自動車 東富士研究所にて、次世代モビリティ向けの車載カメラ画像認識および映像解析AIシステムの研究開発・実装を担当。",
+        "impact": "合成データとモデル改善により道路冠水判定精度を76%から98%へ向上し、社内知財開示プロセスに対応。",
+        "bullets": [
+          "プロジェクト1（道路冠水判定）：約2,000枚の車載カメラ画像と合成データ拡張、ResNet、YOLOP、セグメンテーションを組み合わせ、悪天候や低照度下でも冠水路面を高精度に判定するAIを構築。",
+          "プロジェクト2（運転映像データ分析）：ルールベース・教師なし学習・LLMを活用したアノテーションデータ分析手法を比較検証し、分析処理およびレポート作成を実装。",
+          "プロジェクト3（映像解析・アノテーション自動化）：物体検出・追跡・OCR文字抽出・マップマッチング支援機能を開発し、既存システムの最適化と展開を推進。",
+          "実験条件・評価結果の文書化や日本語での技術報告・プレゼンテーション、社内知財プロセスへの対応を実施。"
+        ],
+        "tech": [
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "YOLOP",
+          "ResNet",
+          "OpenCV",
+          "OCR",
+          "LLM"
+        ],
+        "teamSize": "16名体制",
+        "phases": [
+          "要件整理",
+          "技術調査",
+          "データ分析",
+          "設計",
+          "実装",
+          "学習・検証",
+          "評価・改善",
+          "システム展開",
+          "技術文書作成",
+          "プレゼン"
+        ],
+        "modelLinks": []
+      },
+      {
+        "id": "yamaha",
+        "company": "ヤマハ発動機ロボティクス",
+        "fullCompany": "株式会社アスパーク（配属先：ヤマハ発動機ロボティクス株式会社）",
+        "role": "システムエンジニア — 表面実装機 C++制御開発",
+        "period": "2024年2月 – 2025年12月",
+        "location": "静岡県浜松市",
+        "overview": "電子基板の製造現場で使われる高速表面実装機（マウンタ：YRM10・YRM20・YRM20DL）のWindows向け制御ソフトウェア開発を担当。",
+        "impact": "16名体制の日本語開発チームにて、C++による機能開発・品質改善・タクトタイム向上に貢献。",
+        "bullets": [
+          "担当業務：C++を用いた新機能追加、既存コードのリファクタリング、不具合調査および修正を実施。",
+          "成果：マシンワークフローを改善し、生産ラインのタクトタイム性能とソフトウェアの安定性を向上。",
+          "チーム連携：Visual Studio・SQL・Perforce・Redmineを用い、日本語での詳細設計書作成、テスト、コードレビューを実施。"
+        ],
+        "tech": [
+          "C++",
+          "Windows",
+          "Visual Studio",
+          "SQL",
+          "Perforce",
+          "Redmine"
+        ],
+        "teamSize": "16名（開発部25名体制）",
+        "phases": [
+          "基本設計〜詳細設計",
+          "C++開発",
+          "リファクタリング",
+          "テスト・デバッグ",
+          "コードレビュー",
+          "チェックイン"
+        ],
+        "modelLinks": [
+          {
+            "label": "YRM10",
+            "url": "https://www.yamaha-motor.co.jp/smt/mounter/yrm10/"
+          },
+          {
+            "label": "YRM20",
+            "url": "https://www.yamaha-motor.co.jp/smt/mounter/yrm20/"
+          },
+          {
+            "label": "YRM20DL",
+            "url": "https://www.yamaha-motor.co.jp/smt/mounter/yrm20dl/"
+          }
+        ]
+      },
+      {
+        "id": "cloudcreative",
+        "company": "クラウドクリエイティブスタジオ",
+        "fullCompany": "株式会社クラウドクリエイティブスタジオ",
+        "role": "フルスタック開発エンジニア",
+        "period": "2022年12月 – 2024年1月",
+        "location": "京都府京都市",
+        "overview": "13万人以上が利用するクラウド型ゲームサーバー管理ツールおよびゲーム・サーバー間通信APIの設計・開発・運用を担当。",
+        "impact": "C#・ASP.NET・Azureを用いたバックエンドからWeb管理画面、CI/CD・自動バックアップまで一貫して構築。",
+        "bullets": [
+          "担当業務：C#・ASP.NETによるAPI開発と、JavaScript・HTML・CSS・BootstrapによるWeb管理画面の設計・実装。",
+          "主な機能：Azure・Cosmos DB・Redisを活用し、ユーザー認証、ガチャ・ショップ・イベント機能、KPI分析システムを開発。",
+          "運用基盤：GitHub ActionsによるCI/CDパイプラインとKPIデータの自動バックアップ処理を設計・運用。"
+        ],
+        "tech": [
+          "C#",
+          "ASP.NET",
+          "Azure",
+          "Cosmos DB",
+          "Redis",
+          "JavaScript",
+          "GitHub Actions"
+        ],
+        "teamSize": "7名体制",
+        "phases": [
+          "基本設計〜詳細設計",
+          "開発",
+          "テスト",
+          "コードレビュー",
+          "Azure運用"
+        ],
+        "modelLinks": []
+      }
+    ],
+    "phasesLabel": "担当フェーズ"
+  },
+  "projects": {
+    "title": "主な開発・研究実績",
+    "subtitle": "実務におけるAI・クラウドシステム、査読付き国際会議論文、および大学時代の開発実績。",
+    "otherTitle": "大学時代の開発実績（GitHub）",
+    "featured": [
+      {
+        "title": "車載カメラを用いた道路冠水判定システム",
+        "context": "トヨタ自動車 東富士研究所",
+        "impact": "判定精度 76% → 98% · 知財開示対応",
+        "phases": [
+          "技術調査",
+          "合成データ作成",
+          "モデル学習・改善",
+          "評価",
+          "技術文書化"
+        ],
+        "description": "車載カメラ映像に対し、合成データ生成・ResNetファインチューニング・YOLOP・セグメンテーション判定ロジックを統合し、低照度や路面反射下でも高精度な冠水判定を実現。",
+        "tech": [
+          "PyTorch",
+          "YOLOP",
+          "ResNet",
+          "OpenCV",
+          "合成データ"
+        ],
+        "link": "",
+        "modelLinks": [],
+        "category": "ai",
+        "icon": "eye"
+      },
+      {
+        "title": "映像解析・アノテーション自動化基盤",
+        "context": "モビリティ分野 研究開発",
+        "impact": "物体検出 · 追跡 · OCR · LLM",
+        "phases": [
+          "調査",
+          "設計",
+          "実装",
+          "最適化",
+          "システム展開"
+        ],
+        "description": "運転映像からの物体検出・追跡・OCR文字情報抽出・マップマッチング支援に加え、LLMや教師なし学習を活用したアノテーションデータ分析手法を検証・実装。",
+        "tech": [
+          "Python",
+          "YOLO",
+          "OCR",
+          "LLM",
+          "Pandas"
+        ],
+        "link": "",
+        "modelLinks": [],
+        "category": "ai",
+        "icon": "video"
+      },
+      {
+        "title": "表面実装機（YRMシリーズ）制御ソフトウェア開発",
+        "context": "ヤマハ発動機ロボティクス（アスパーク配属）",
+        "impact": "産業用SMTマウンタ · タクトタイム改善",
+        "phases": [
+          "基本〜詳細設計",
+          "C++実装",
+          "テスト・デバッグ",
+          "コードレビュー"
+        ],
+        "description": "ヤマハ発動機の高速表面実装機（YRM10・YRM20・YRM20DL）向けWindows制御ソフトウェアの機能開発・リファクタリング・不具合修正を担当。",
+        "tech": [
+          "C++",
+          "Windows",
+          "Visual Studio",
+          "SQL",
+          "Perforce"
+        ],
+        "link": "https://www.yamaha-motor.co.jp/smt/mounter/yrm20/",
+        "modelLinks": [
+          {
+            "label": "YRM10",
+            "url": "https://www.yamaha-motor.co.jp/smt/mounter/yrm10/"
+          },
+          {
+            "label": "YRM20",
+            "url": "https://www.yamaha-motor.co.jp/smt/mounter/yrm20/"
+          },
+          {
+            "label": "YRM20DL",
+            "url": "https://www.yamaha-motor.co.jp/smt/mounter/yrm20dl/"
+          }
+        ],
+        "category": "systems",
+        "icon": "cpu"
+      },
+      {
+        "title": "クラウド型ゲームサーバー管理プラットフォーム",
+        "context": "クラウドクリエイティブスタジオ",
+        "impact": "利用ユーザー 130,000人+",
+        "phases": [
+          "設計",
+          "フルスタック実装",
+          "テスト",
+          "CI/CD・Azure運用"
+        ],
+        "description": "ゲームデータ・ユーザー認証・サーバー通信API・KPI分析・自動バックアップを一元管理するAzure上のフルスタックWebアプリケーション。",
+        "tech": [
+          "C#",
+          "ASP.NET",
+          "Azure",
+          "Cosmos DB",
+          "Redis"
+        ],
+        "link": "",
+        "modelLinks": [],
+        "category": "systems",
+        "icon": "cloud"
+      }
+    ],
+    "other": [
+      {
+        "title": "Face Recognition on Flask Server",
+        "period": "2022年頃",
+        "category": "ai",
+        "description": "Siameseニューラルネットワークによるワンショット学習とSQLiteを用いたFlaskベースの顔認証Webシステム。",
+        "tech": [
+          "Python",
+          "Flask",
+          "Siamese NN",
+          "SQLite"
+        ],
+        "url": "https://github.com/nahid0335/Face-Recognition-on-Flask-Server"
+      },
+      {
+        "title": "StudyBlog",
+        "period": "2022年頃",
+        "category": "systems",
+        "description": "ユーザー・管理者両画面、カテゴリ管理、コメント機能、SQL Serverストアドプロシージャを備えた学習資料Webサイト。",
+        "tech": [
+          "C#",
+          "ASP.NET",
+          "JavaScript",
+          "SQL Server"
+        ],
+        "url": "https://github.com/nahid0335/StudyBlog"
+      },
+      {
+        "title": "Sliding Puzzle Game",
+        "period": "2022年頃",
+        "category": "university",
+        "description": "手数とクリア速度を記録するFlutter・Dart製の15パズルゲームアプリ。",
+        "tech": [
+          "Flutter",
+          "Dart"
+        ],
+        "url": "https://github.com/nahid0335/slidingGame"
+      },
+      {
+        "title": "Online Education Management",
+        "period": "2021年頃",
+        "category": "systems",
+        "description": "学生・教員プロフィールや一覧管理機能を備えたASP.NET・SQL Server製のオンライン教育管理Webアプリ。",
+        "tech": [
+          "ASP.NET",
+          "SQL Server",
+          "SCSS",
+          "JavaScript"
+        ],
+        "url": "https://github.com/nahid0335/online_education_management_webapp"
+      },
+      {
+        "title": "Digicus",
+        "period": "2021年4月 – 5月",
+        "category": "university",
+        "description": "毎日の支出・取引明細・旅行費用の管理に対応したSQLiteベースのAndroid家計簿アプリ。",
+        "tech": [
+          "Java",
+          "Android",
+          "SQLite"
+        ],
+        "url": "https://github.com/nahid0335/Digicus"
+      },
+      {
+        "title": "3D Ball Game (OpenGL)",
+        "period": "2021年頃",
+        "category": "university",
+        "description": "OpenGLによるモデルビュー変換・ライティング・テクスチャ・ベジェ曲線を実装したC++製3Dグラフィックゲーム。",
+        "tech": [
+          "C++",
+          "OpenGL",
+          "3D Graphics"
+        ],
+        "url": "https://github.com/nahid0335/3D_Ball_Game_using_openGL"
+      },
+      {
+        "title": "Six Soldier AI Game",
+        "period": "2020年 – 2021年頃",
+        "category": "ai",
+        "description": "Alpha-Beta枝刈り付きMinimax法を採用した人間対AIのPython・Pygame製2人用戦略ボードゲーム。",
+        "tech": [
+          "Python",
+          "Minimax AI",
+          "Pygame"
+        ],
+        "url": "https://github.com/nahid0335/Six-Soldier-using-AI-in-python"
+      },
+      {
+        "title": "Birthday Notifier",
+        "period": "2020年2月 – 8月",
+        "category": "university",
+        "description": "MVVM・Room・LiveData・Firebaseを採用し、ローカル＆クラウド保存と毎年定刻アラーム通知を備えたAndroidアプリ。",
+        "tech": [
+          "Java",
+          "MVVM",
+          "Room",
+          "Firebase"
+        ],
+        "url": "https://github.com/nahid0335/BirthdayNotifier"
+      },
+      {
+        "title": "Blood Aid",
+        "period": "2019年9月 – 12月",
+        "category": "university",
+        "description": "REST API・Googleマップ連携により地域別の献血者・病院・救急車情報を検索できるAndroid支援アプリ。",
+        "tech": [
+          "Java",
+          "Android",
+          "REST API",
+          "PHP"
+        ],
+        "url": "https://github.com/nahid0335/Blood_Aid"
+      },
+      {
+        "title": "dwater",
+        "period": "2019年4月 – 6月",
+        "category": "university",
+        "description": "オンラインでの飲料水注文・配送管理を行うフルスタックWebアプリケーション。",
+        "tech": [
+          "PHP",
+          "Laravel",
+          "Bootstrap",
+          "MySQL"
+        ],
+        "url": "https://github.com/nahid0335/dwater"
+      },
+      {
+        "title": "iRun",
+        "period": "2019年頃",
+        "category": "university",
+        "description": "音声コマンド案内・日々の走行記録（SQLite3）・BGM再生を備えたSwift製iOSヘルスケアアプリ。",
+        "tech": [
+          "Swift",
+          "iOS",
+          "SQLite3",
+          "Voice UI"
+        ],
+        "url": "https://github.com/nahid0335/iRun"
+      }
+    ],
+    "phasesLabel": "担当:",
+    "filters": [
+      {
+        "id": "all",
+        "label": "すべて"
+      },
+      {
+        "id": "ai",
+        "label": "AI・画像認識"
+      },
+      {
+        "id": "systems",
+        "label": "ロボティクス・クラウド"
+      },
+      {
+        "id": "university",
+        "label": "大学・個人開発"
+      }
+    ]
+  },
+  "publications": {
+    "title": "論文・研究実績",
+    "papersTitle": "国際会議論文（IEEE査読付き）",
+    "papers": [
+      {
+        "title": "Depression Level Classification on Real-Time Data using Machine Learning and Data Mining Techniques",
+        "venue": "26th International Conference on Computer and Information Technology (ICCIT), IEEE · 2023（共著）",
+        "detail": "392件・9特徴量のリアルタイムデータを用い、Random Forestにて約77%の分類精度（F1: 0.725、MAE: 0.271）を達成。",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10441106/"
+      },
+      {
+        "title": "Protein Secondary Structure Prediction using Graph Neural Network",
+        "venue": "5th International Conference on Electrical Information and Communication Technology (EICT), IEEE · 2021（筆頭著者）",
+        "detail": "ccPDB 2.0データセットにおいてGNNとSVMにより8状態予測精度76.89%を達成。",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9733590/"
+      }
+    ],
+    "educationTitle": "学歴・受賞歴",
+    "education": {
+      "degree": "コンピュータサイエンス・エンジニアリング学士（B.Sc. in CSE）",
+      "school": "クルナ工科大学（Khulna University of Engineering & Technology, バングラデシュ）",
+      "period": "2017年4月 – 2022年4月",
+      "gpa": "GPA: 3.78 / 4.00 · 学部長賞（Dean's Award）3回受賞"
+    },
+    "certsTitle": "資格・研修・語学力",
+    "certs": [
+      "TOEIC Listening & Reading IPテスト：985点（2026年11月）",
+      "日本語：ビジネス実務レベル（会話力はJLPT N2以上相当／JLPT N3合格・N2受験予定）",
+      "ITEE 基本情報技術者試験（FE）合格（2021年11月）",
+      "B-JET（日バICTエンジニア育成プログラム）修了（2022年4月–9月）",
+      "iOSアプリ開発トレーニング修了（2018年4月）· 日本語NAT-TEST 4級（2022年11月）",
+      "対応言語：ベンガル語（母語）· 英語（流暢）· 日本語（ビジネス・N2相当会話）· ヒンディー語（日常会話）"
+    ]
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "日本国内でのAI・コンピュータビジョン研究開発職（正社員）のご相談を歓迎いたします。",
+    "description": "採用ご担当者様・エンジニアの皆様、メールまたはLinkedInよりお気軽にご連絡ください。",
+    "copyEmail": "メールをコピー",
+    "copied": "コピーしました！",
+    "sendEmail": "メールを送る",
+    "callPhone": "080-4485-5867",
+    "phoneCopiedToast": "電話番号をコピーしました：+81 80-4485-5867"
+  },
+  "footer": {
+    "builtBy": "Designed & built by Tamzid Hasan Nahid",
+    "rights": "GitHub Pages にて公開中"
+  },
+  "eduResearch": {
+    "title": "学歴・研究実績",
+    "educationTitle": "学歴タイムライン",
+    "education": [
+      {
+        "period": "2017年2月 – 2022年4月",
+        "degree": "コンピュータサイエンス・エンジニアリング学士（B.Sc. in CSE）",
+        "school": "クルナ工科大学（Khulna University of Engineering & Technology, バングラデシュ）",
+        "grade": "CGPA: 3.78 / 4.00",
+        "details": "学部長賞（Dean's Award）3回受賞（2017–18, 2018–19, 2019–20）。卒業研究：Graph Neural Networkを用いたタンパク質二次構造予測。"
+      },
+      {
+        "period": "2014年6月 – 2016年6月",
+        "degree": "Higher Secondary Certificate (HSC) — 理系（日本の高等学校卒業相当）",
+        "school": "ノートルダム・カレッジ（Notre Dame College, ダッカ）",
+        "grade": "GPA: 5.00 / 5.00",
+        "details": "バングラデシュの後期中等教育修了資格（日本の高校卒業に相当）。理系コースを満点（GPA 5.00/5.00）で修了。"
+      },
+      {
+        "period": "2009年1月 – 2014年2月",
+        "degree": "Secondary School Certificate (SSC) — 理系（日本の中学校卒業〜高校1年修了相当）",
+        "school": "A.K. High School（ダッカ）",
+        "grade": "GPA: 5.00 / 5.00",
+        "details": "バングラデシュの前期中等教育修了資格（日本の中学卒業〜高校1年修了に相当）。理系コースを満点（GPA 5.00/5.00）で修了。"
+      }
+    ],
+    "researchTitle": "研究・論文タイムライン",
+    "research": [
+      {
+        "period": "2026年",
+        "type": "社内知財開示 · トヨタ自動車株式会社",
+        "title": "車載カメラを用いた道路冠水判定技術（東富士研究所）",
+        "detail": "道路冠水判定に関する技術コンセプトを社内知財プロセスへ提出し、トヨタ自動車の社内開示プロセスにて公開。",
+        "url": ""
+      },
+      {
+        "period": "2023年",
+        "type": "IEEE ICCIT 2023 · 共著",
+        "title": "Depression Level Classification on Real-Time Data using Machine Learning and Data Mining Techniques",
+        "detail": "26th ICCIT (IEEE)。392件・9特徴量のリアルタイムデータを用い、Random Forestにて約77%の分類精度（F1: 0.725、MAE: 0.271）を達成。",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10441106/"
+      },
+      {
+        "period": "2021年",
+        "type": "IEEE EICT 2021 · 筆頭著者",
+        "title": "Protein Secondary Structure Prediction using Graph Neural Network",
+        "detail": "5th EICT (IEEE)。ccPDB 2.0データセットにおいてGNNとSVMにより8状態予測精度76.89%を達成。",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9733590/"
+      }
+    ],
+    "scholarLabel": "Google Scholar",
+    "kaggleLabel": "Kaggle (4 Notebooks · 503 Forks)"
+  },
+  "certifications": {
+    "title": "資格・研修タイムライン",
+    "languagesLabel": "対応言語：ベンガル語（母語）· 英語（流暢 · TOEIC 985点）· 日本語（ビジネス実務 · N2以上相当の会話力）· ヒンディー語（日常会話）",
+    "items": [
+      {
+        "date": "2026年11月",
+        "title": "TOEIC Listening & Reading IPテスト：985点",
+        "org": "ETS / IIEC",
+        "detail": "高度なビジネス英語の読解・聴解力を証明。"
+      },
+      {
+        "date": "2023年12月",
+        "title": "日本語能力試験（JLPT）N3 合格",
+        "org": "国際交流基金・日本国際教育支援協会",
+        "detail": "実務における会話力はN2以上相当（現在N2受験予定）。"
+      },
+      {
+        "date": "2022年11月",
+        "title": "日本語NAT-TEST 4級 合格",
+        "org": "専門教育出版",
+        "detail": "日本語基礎能力試験4級を取得。"
+      },
+      {
+        "date": "2022年4月 – 9月",
+        "title": "B-JET（日バICTエンジニア育成プログラム）修了",
+        "org": "JICA / BCC",
+        "detail": "日本企業向けビジネスマナーおよび日本語集中研修（約5ヶ月間）。"
+      },
+      {
+        "date": "2021年11月",
+        "title": "ITEE 基本情報技術者試験（FE）合格",
+        "org": "IPA（情報処理推進機構）基準",
+        "detail": "日本のIPAが管轄する情報処理技術者試験に合格。"
+      },
+      {
+        "date": "2020年4月",
+        "title": "Neural Networks and Deep Learning",
+        "org": "deeplearning.ai (Coursera)",
+        "detail": "ディープラーニングおよびニューラルネットワークの数理・実装を習得。"
+      },
+      {
+        "date": "2020年4月",
+        "title": "Machine Learning",
+        "org": "Stanford Online (Coursera)",
+        "detail": "教師あり・教師なし機械学習アルゴリズムの基礎を習得。"
+      },
+      {
+        "date": "2018年4月",
+        "title": "iOSアプリ開発トレーニング修了",
+        "org": "Nascenia（クルナ工科大学）",
+        "detail": "Swiftを用いたiOSアプリケーション開発ワークショップを修了。"
+      }
+    ],
+    "languagesTitle": "対応言語",
+    "languages": [
+      {
+        "name": "英語 (English)",
+        "level": "流暢 · TOEIC 985",
+        "percent": 99.49,
+        "note": "技術議論・論文執筆・ビジネス全般に対応"
+      },
+      {
+        "name": "日本語 (Japanese)",
+        "level": "会話 (N2+) · 聴解 (N1)",
+        "percent": 90,
+        "note": "JLPT N3合格（N2受験予定）・会議や資料作成に対応"
+      },
+      {
+        "name": "ベンガル語 (Bangla)",
+        "level": "母語 (Native)",
+        "percent": 100,
+        "note": "ネイティブレベル"
+      },
+      {
+        "name": "ヒンディー語 (Hindi)",
+        "level": "日常会話",
+        "percent": 50,
+        "note": "日常的なコミュニケーションが可能"
+      }
+    ]
+  }
+}

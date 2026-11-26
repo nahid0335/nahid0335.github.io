@@ -1,0 +1,706 @@
+{
+  "meta": {
+    "lang": "en",
+    "label": "EN",
+    "title": "Tamzid Hasan Nahid | AI & Computer Vision Research Engineer"
+  },
+  "nav": {
+    "brand": "Tamzid",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "publications": "Publications",
+    "contact": "Contact",
+    "resume": "Download CV",
+    "education": "Education",
+    "certifications": "Certifications",
+    "cvOptions": [
+      {
+        "label": "Japanese Resume (履歴書)",
+        "href": "/cv/Tamzid_Rirekisho_JP.pdf"
+      },
+      {
+        "label": "Japanese Work History (職務経歴書)",
+        "href": "/cv/Nahid_Tamzid_Hasan_Shokumukeirekisho_JP.pdf"
+      },
+      {
+        "label": "English CV (PDF)",
+        "href": "/cv/Nahid_Tamzid_Hasan_CV_EN.pdf"
+      }
+    ],
+    "eduResearch": "Education & Research"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Tamzid Hasan Nahid",
+    "tagline": "AI & Computer Vision Engineer · Systems & Full-Stack Developer",
+    "summary": "Currently developing mobility AI and computer vision systems at Toyota Higashi-Fuji Research Center (via BREXA Technology). With prior experience in C++ industrial robotics at Yamaha Motor Robotics and cloud full-stack engineering in Kyoto, I deliver reliable software from prototype to deployment in both Japanese and English.",
+    "location": "Numazu, Shizuoka, Japan",
+    "visa": "Japan Work Visa: Engineer / Int'l Services (Valid until May 21, 2028)",
+    "ctaPrimary": "View Projects",
+    "ctaContact": "Get in Touch"
+  },
+  "stats": [
+    {
+      "value": "Toyota Higashi-Fuji R&D",
+      "label": "Current AI Engineer (via BREXA Technology)"
+    },
+    {
+      "value": "{{AUTO_EXP}}",
+      "label": "AI/CV · C++ Robotics · Cloud Full-Stack"
+    },
+    {
+      "value": "2 IEEE Papers & 3x Dean's Award",
+      "label": "B.Sc. CSE (GPA 3.78 / 4.00)"
+    },
+    {
+      "value": "4 Languages",
+      "label": "EN (TOEIC 985) · JA (N2+ Speaking) · Bangla · Hindi"
+    }
+  ],
+  "about": {
+    "title": "About Me",
+    "paragraphs": [
+      "I am a Computer Vision and Applied Machine Learning Engineer based in Shizuoka, Japan, with hands-on experience spanning mobility AI research, industrial robotics software, and scalable cloud web services.",
+      "Currently, I develop mobility-related AI and visual understanding systems at Toyota Motor Corporation's Higashi-Fuji Research Center through BREXA Technology—turning experimental models into reproducible internal software and patent-disclosure concepts.",
+      "Previously, I developed C++ control software for surface-mount robotics at Yamaha Motor Robotics (via Aspark) and built cloud game-server infrastructure serving 130,000+ users at Cloud Creative Studios in Kyoto."
+    ],
+    "skillsTitle": "Core Technical Stack",
+    "skillGroups": [
+      {
+        "category": "AI, Machine Learning & Computer Vision",
+        "items": [
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "Keras",
+          "scikit-learn",
+          "Hugging Face",
+          "LLM",
+          "RAG",
+          "YOLO / YOLOP",
+          "ResNet",
+          "OpenCV",
+          "GNN / SVM",
+          "OCR & Tracking",
+          "Synthetic Data",
+          "Pandas & NumPy"
+        ]
+      },
+      {
+        "category": "Backend, Systems & Mobile",
+        "items": [
+          "C / C++",
+          "C# / ASP.NET",
+          "Django",
+          "Flask",
+          "PHP / Laravel",
+          "REST APIs",
+          "Java / Android",
+          "MVVM / Room / LiveData",
+          "Visual Studio",
+          "Swift / iOS / Flutter",
+          "OpenGL / Pygame"
+        ]
+      },
+      {
+        "category": "Frontend, Cloud & DevOps",
+        "items": [
+          "React",
+          "TypeScript",
+          "JavaScript",
+          "HTML5 / CSS3",
+          "Tailwind CSS",
+          "Bootstrap",
+          "Microsoft Azure",
+          "AWS (S3, Cloud9)",
+          "Cosmos DB",
+          "PostgreSQL / MySQL / Oracle",
+          "MongoDB / Redis",
+          "Firebase / SQLite",
+          "Git / GitHub Actions / CI/CD",
+          "Perforce / JIRA / Redmine"
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "title": "Where I've Worked",
+    "items": [
+      {
+        "id": "toyota",
+        "company": "Toyota Higashi-Fuji R&D",
+        "fullCompany": "BREXA Technology, Inc. (assigned to Toyota Motor Corporation)",
+        "role": "AI Engineer — Mobility & Computer Vision",
+        "period": "Jan 2026 – Present",
+        "location": "Susono, Shizuoka",
+        "overview": "Developing AI and camera-understanding systems for next-generation mobility research at Toyota's Higashi-Fuji Research Center.",
+        "impact": "Improved road-flood detection accuracy from 76% to 98% and submitted a concept through Toyota's internal patent disclosure process.",
+        "bullets": [
+          "Project 1 — Flooded-Road Detection: Built an AI pipeline using ~2,000 vehicle-camera images, synthetic data, ResNet, YOLOP, and segmentation so vehicles can detect flooded roads even in low light, reflections, and low resolution.",
+          "Project 2 — Driving-Video Data Analysis: Compared rule-based, unsupervised learning, and LLM-based methods to automatically analyze and summarize driving-video annotations.",
+          "Project 3 — Video Analysis & Annotation Automation: Built internal tools for object detection, tracking, OCR text extraction, and map-matching support to speed up research workflows.",
+          "Authored reproducible technical documentation and presented findings in Japanese for Toyota's internal IP disclosure process."
+        ],
+        "tech": [
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "YOLOP",
+          "ResNet",
+          "OpenCV",
+          "OCR",
+          "LLM"
+        ],
+        "teamSize": "Team: 16 members",
+        "phases": [
+          "Requirements",
+          "Research",
+          "Data Analysis",
+          "Design",
+          "Implementation",
+          "Training & Evaluation",
+          "Deployment",
+          "Documentation",
+          "Presentation"
+        ],
+        "modelLinks": []
+      },
+      {
+        "id": "yamaha",
+        "company": "Yamaha Motor Robotics",
+        "fullCompany": "Aspark Co., Ltd. (assigned to Yamaha Motor Robotics Co., Ltd.)",
+        "role": "Systems Engineer — Industrial Robotics Software",
+        "period": "Feb 2024 – Dec 2025",
+        "location": "Hamamatsu, Shizuoka",
+        "overview": "Developed control software for Yamaha's high-speed Surface-Mount Technology (SMT) robotics machines (YRM10, YRM20, YRM20DL) used in electronics manufacturing.",
+        "impact": "Delivered reliable C++ features and workflow optimizations in a 16-member Japanese engineering team.",
+        "bullets": [
+          "What I built: Added new machine features, refactored legacy C++ code, and fixed production software defects on Windows.",
+          "How it helped: Improved machine control workflows to support factory tact-time (speed) and operational stability.",
+          "Collaboration: Worked directly with Yamaha engineers in Japanese on detailed design specs, SQL data handling, testing, and code reviews."
+        ],
+        "tech": [
+          "C++",
+          "Windows",
+          "Visual Studio",
+          "SQL",
+          "Perforce",
+          "Redmine"
+        ],
+        "teamSize": "Team: 16 members (25-member dept.)",
+        "phases": [
+          "Basic & Detailed Design",
+          "C++ Development",
+          "Refactoring",
+          "Testing & Debugging",
+          "Code Review",
+          "Check-in"
+        ],
+        "modelLinks": [
+          {
+            "label": "YRM10",
+            "url": "https://global.yamaha-motor.com/business/smt/mounter/yrm10/"
+          },
+          {
+            "label": "YRM20",
+            "url": "https://global.yamaha-motor.com/business/smt/mounter/yrm20/"
+          },
+          {
+            "label": "YRM20DL",
+            "url": "https://global.yamaha-motor.com/business/smt/mounter/yrm20dl/"
+          }
+        ]
+      },
+      {
+        "id": "cloudcreative",
+        "company": "Cloud Creative Studios",
+        "fullCompany": "Cloud Creative Studios",
+        "role": "Full-Stack Developer",
+        "period": "Dec 2022 – Jan 2024",
+        "location": "Kyoto, Japan",
+        "overview": "Built a cloud-based game-server management platform and live-ops web portal serving 130,000+ active players.",
+        "impact": "Planned, built, and deployed end-to-end backend APIs, admin UI, and automated Azure cloud backups.",
+        "bullets": [
+          "What I built: Backend services in C# / ASP.NET and responsive web management dashboards in JavaScript, HTML, CSS, and Bootstrap.",
+          "Core features: Engineered user authentication, in-game gacha/shop/event systems, and real-time KPI analytics on Azure, Cosmos DB, and Redis.",
+          "Reliability: Automated CI/CD builds with GitHub Actions and designed scheduled KPI data-processing and backup pipelines."
+        ],
+        "tech": [
+          "C#",
+          "ASP.NET",
+          "Azure",
+          "Cosmos DB",
+          "Redis",
+          "JavaScript",
+          "GitHub Actions"
+        ],
+        "teamSize": "Team: 7 members",
+        "phases": [
+          "Basic & Detailed Design",
+          "Backend & Frontend Dev",
+          "Testing",
+          "Code Review",
+          "Azure Deployment"
+        ],
+        "modelLinks": []
+      }
+    ],
+    "phasesLabel": "My Role & Phases"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Selected production systems, R&D pipelines, and peer-reviewed research.",
+    "otherTitle": "University & Personal Projects (GitHub)",
+    "featured": [
+      {
+        "title": "Flooded-Road Detection Pipeline",
+        "context": "Toyota Higashi-Fuji Research Center",
+        "impact": "76% → 98% Accuracy · Internal IP Disclosure",
+        "phases": [
+          "Research",
+          "Data Synthesis",
+          "Model Fine-tuning",
+          "Evaluation",
+          "Documentation"
+        ],
+        "description": "End-to-end vehicle-camera flood detection system combining synthetic data augmentation, ResNet fine-tuning, YOLOP, and segmentation decision logic to handle low-light, reflections, and low-resolution scenes.",
+        "tech": [
+          "PyTorch",
+          "YOLOP",
+          "ResNet",
+          "OpenCV",
+          "Synthetic Data"
+        ],
+        "link": "",
+        "modelLinks": [],
+        "category": "ai",
+        "icon": "eye"
+      },
+      {
+        "title": "Video Analysis & Annotation Automation",
+        "context": "Mobility R&D",
+        "impact": "Detection · Tracking · OCR · LLM",
+        "phases": [
+          "Investigation",
+          "Pipeline Design",
+          "Implementation",
+          "Optimization",
+          "Deployment"
+        ],
+        "description": "Internal video-understanding pipeline integrating object detection, multi-object tracking, OCR text extraction, map-matching support, and LLM/unsupervised annotation analysis.",
+        "tech": [
+          "Python",
+          "YOLO",
+          "OCR",
+          "LLM",
+          "Pandas"
+        ],
+        "link": "",
+        "modelLinks": [],
+        "category": "ai",
+        "icon": "video"
+      },
+      {
+        "title": "Surface-Mount Robotics Control Software (YRM Series)",
+        "context": "Yamaha Motor Robotics (via Aspark)",
+        "impact": "Industrial SMT Mounters · Tact-Time Optimization",
+        "phases": [
+          "Basic & Detailed Design",
+          "C++ Implementation",
+          "Testing",
+          "Code Review"
+        ],
+        "description": "Windows-based C++ control software for Yamaha's high-speed surface-mount robotics machines (YRM10, YRM20, YRM20DL), improving machine workflows and production reliability.",
+        "tech": [
+          "C++",
+          "Windows",
+          "Visual Studio",
+          "SQL",
+          "Perforce"
+        ],
+        "link": "https://global.yamaha-motor.com/business/smt/mounter/yrm20/",
+        "modelLinks": [
+          {
+            "label": "YRM10",
+            "url": "https://global.yamaha-motor.com/business/smt/mounter/yrm10/"
+          },
+          {
+            "label": "YRM20",
+            "url": "https://global.yamaha-motor.com/business/smt/mounter/yrm20/"
+          },
+          {
+            "label": "YRM20DL",
+            "url": "https://global.yamaha-motor.com/business/smt/mounter/yrm20dl/"
+          }
+        ],
+        "category": "systems",
+        "icon": "cpu"
+      },
+      {
+        "title": "Cloud Game-Server Management Platform",
+        "context": "Cloud Creative Studios",
+        "impact": "130,000+ Active Users",
+        "phases": [
+          "Design",
+          "Full-Stack Implementation",
+          "Testing",
+          "CI/CD & Azure Ops"
+        ],
+        "description": "Full-stack web management portal and client-server communication APIs handling authentication, live-ops events, KPI analytics, and automated cloud backups on Microsoft Azure.",
+        "tech": [
+          "C#",
+          "ASP.NET",
+          "Azure",
+          "Cosmos DB",
+          "Redis"
+        ],
+        "link": "",
+        "modelLinks": [],
+        "category": "systems",
+        "icon": "cloud"
+      }
+    ],
+    "other": [
+      {
+        "title": "Face Recognition on Flask Server",
+        "period": "~2022",
+        "category": "ai",
+        "description": "Face recognition web app on Flask using one-shot learning with a Siamese neural network (siamesemodel.h5) and SQLite.",
+        "tech": [
+          "Python",
+          "Flask",
+          "Siamese NN",
+          "SQLite"
+        ],
+        "url": "https://github.com/nahid0335/Face-Recognition-on-Flask-Server"
+      },
+      {
+        "title": "StudyBlog",
+        "period": "~2022",
+        "category": "systems",
+        "description": "Online study-material platform with user & admin panels, categories, comments, and SQL Server stored procedures.",
+        "tech": [
+          "C#",
+          "ASP.NET",
+          "JavaScript",
+          "SQL Server"
+        ],
+        "url": "https://github.com/nahid0335/StudyBlog"
+      },
+      {
+        "title": "Sliding Puzzle Game",
+        "period": "~2022",
+        "category": "university",
+        "description": "Flutter & Dart 15-puzzle sliding game tracking completion speed and minimum move count.",
+        "tech": [
+          "Flutter",
+          "Dart"
+        ],
+        "url": "https://github.com/nahid0335/slidingGame"
+      },
+      {
+        "title": "Online Education Management",
+        "period": "~2021",
+        "category": "systems",
+        "description": "ASP.NET & SQL Server web portal managing student/teacher profiles, lists, and masterpage layouts.",
+        "tech": [
+          "ASP.NET",
+          "SQL Server",
+          "SCSS",
+          "JavaScript"
+        ],
+        "url": "https://github.com/nahid0335/online_education_management_webapp"
+      },
+      {
+        "title": "Digicus",
+        "period": "Apr – May 2021",
+        "category": "university",
+        "description": "Android personal expense and tour transaction tracker with local SQLite storage and transaction history.",
+        "tech": [
+          "Java",
+          "Android",
+          "SQLite"
+        ],
+        "url": "https://github.com/nahid0335/Digicus"
+      },
+      {
+        "title": "3D Ball Game (OpenGL)",
+        "period": "~2021",
+        "category": "university",
+        "description": "3D graphics game built with OpenGL featuring model-view transforms, lighting, texturing, and Bézier curves.",
+        "tech": [
+          "C++",
+          "OpenGL",
+          "3D Graphics"
+        ],
+        "url": "https://github.com/nahid0335/3D_Ball_Game_using_openGL"
+      },
+      {
+        "title": "Six Soldier AI Game",
+        "period": "~2020 – 2021",
+        "category": "ai",
+        "description": "2-player board game (Human vs. AI bot) built in Python & Pygame using Minimax with alpha-beta pruning.",
+        "tech": [
+          "Python",
+          "Minimax AI",
+          "Pygame"
+        ],
+        "url": "https://github.com/nahid0335/Six-Soldier-using-AI-in-python"
+      },
+      {
+        "title": "Birthday Notifier",
+        "period": "Feb – Aug 2020",
+        "category": "university",
+        "description": "Android reminder app using MVVM, Room, LiveData, and Firebase for local & online sync with annual 11:00 PM alerts.",
+        "tech": [
+          "Java",
+          "MVVM",
+          "Room",
+          "Firebase"
+        ],
+        "url": "https://github.com/nahid0335/BirthdayNotifier"
+      },
+      {
+        "title": "Blood Aid",
+        "period": "Sep – Dec 2019",
+        "category": "university",
+        "description": "Android donor-matching & emergency hospital/ambulance finder with Google Maps integration and REST API.",
+        "tech": [
+          "Java",
+          "Android",
+          "REST API",
+          "PHP"
+        ],
+        "url": "https://github.com/nahid0335/Blood_Aid"
+      },
+      {
+        "title": "dwater",
+        "period": "Apr – Jun 2019",
+        "category": "university",
+        "description": "Full-stack web application for online water ordering and delivery management.",
+        "tech": [
+          "PHP",
+          "Laravel",
+          "Bootstrap",
+          "MySQL"
+        ],
+        "url": "https://github.com/nahid0335/dwater"
+      },
+      {
+        "title": "iRun",
+        "period": "~2019",
+        "category": "university",
+        "description": "Swift iOS healthcare running app with voice-command guidance, background music, and SQLite3 workout logs.",
+        "tech": [
+          "Swift",
+          "iOS",
+          "SQLite3",
+          "Voice UI"
+        ],
+        "url": "https://github.com/nahid0335/iRun"
+      }
+    ],
+    "phasesLabel": "Phases:",
+    "filters": [
+      {
+        "id": "all",
+        "label": "All"
+      },
+      {
+        "id": "ai",
+        "label": "AI & Vision"
+      },
+      {
+        "id": "systems",
+        "label": "Robotics & Cloud"
+      },
+      {
+        "id": "university",
+        "label": "University & Personal"
+      }
+    ]
+  },
+  "publications": {
+    "title": "Publications",
+    "papersTitle": "Peer-Reviewed IEEE Publications",
+    "papers": [
+      {
+        "title": "Depression Level Classification on Real-Time Data using Machine Learning and Data Mining Techniques",
+        "venue": "26th International Conference on Computer and Information Technology (ICCIT), IEEE · 2023 (Co-author)",
+        "detail": "Evaluated multiclass depression severity on 392 records and 9 features; Random Forest achieved ~77% accuracy, F1-score 0.725, and MAE 0.271.",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10441106/"
+      },
+      {
+        "title": "Protein Secondary Structure Prediction using Graph Neural Network",
+        "venue": "5th International Conference on Electrical Information and Communication Technology (EICT), IEEE · 2021 (First Author)",
+        "detail": "Achieved 76.89% 8-state prediction accuracy on ccPDB 2.0 using graph node-aggregation and SVM.",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9733590/"
+      }
+    ],
+    "educationTitle": "Education & Honours",
+    "education": {
+      "degree": "B.Sc. in Computer Science and Engineering",
+      "school": "Khulna University of Engineering & Technology (KUET), Bangladesh",
+      "period": "Apr 2017 – Apr 2022",
+      "gpa": "GPA: 3.78 / 4.00 · 3x Dean's Award Recipient"
+    },
+    "certsTitle": "Certifications & Training",
+    "certs": [
+      "TOEIC Listening & Reading IP Test: 985 (Nov 2026)",
+      "Japanese: Business Working Proficiency — Speaking above JLPT N2 level (JLPT N3 Certified, Dec 2023; taking N2)",
+      "ITEE Fundamental Information Technology Engineer Examination (FE) (Nov 2021)",
+      "B-JET (Bangladesh-Japan ICT Engineers' Training Program) (Apr – Sep 2022)",
+      "iOS Application Development Training (Apr 2018) · Japanese NAT-TEST Level 4 (Nov 2022)",
+      "Languages: Bangla (Native) · English (Fluent) · Japanese (Business / N2+ Speaking) · Hindi (Conversational)"
+    ]
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Open to AI, Computer Vision, and Research Engineer roles in Japan.",
+    "description": "Whether you are a recruiter, hiring manager, or fellow engineer, feel free to reach out directly via email or LinkedIn.",
+    "copyEmail": "Copy Email",
+    "copied": "Copied!",
+    "sendEmail": "Send Email",
+    "callPhone": "+81 80-4485-5867",
+    "phoneCopiedToast": "Phone number copied: +81 80-4485-5867"
+  },
+  "footer": {
+    "builtBy": "Designed & built by Tamzid Hasan Nahid",
+    "rights": "Hosted on GitHub Pages"
+  },
+  "eduResearch": {
+    "title": "Education & Research",
+    "educationTitle": "Education Timeline",
+    "education": [
+      {
+        "period": "Feb 2017 – Apr 2022",
+        "degree": "B.Sc. in Computer Science and Engineering (CSE)",
+        "school": "Khulna University of Engineering & Technology (KUET), Bangladesh",
+        "grade": "CGPA: 3.78 / 4.00",
+        "details": "3x Dean's Award Recipient (2017–2018, 2018–2019, 2019–2020). Undergraduate Thesis: Protein Secondary Structure Prediction using Graph Neural Network."
+      },
+      {
+        "period": "Jun 2014 – Jun 2016",
+        "degree": "Higher Secondary Certificate (HSC) — Science",
+        "school": "Notre Dame College, Dhaka, Bangladesh",
+        "grade": "GPA: 5.00 / 5.00",
+        "details": "Completed higher secondary education in Science with a perfect GPA."
+      },
+      {
+        "period": "Jan 2009 – Feb 2014",
+        "degree": "Secondary School Certificate (SSC) — Science",
+        "school": "A.K. High School, Dhaka, Bangladesh",
+        "grade": "GPA: 5.00 / 5.00",
+        "details": "Completed secondary education in Science with a perfect GPA."
+      }
+    ],
+    "researchTitle": "Research & Publications Timeline",
+    "research": [
+      {
+        "period": "2026",
+        "type": "Internal Patent Disclosure · Toyota Motor Corporation",
+        "title": "Road-Flood Detection Concept (Higashi-Fuji Research Center)",
+        "detail": "Submitted a vehicle-camera road-flood detection concept for patent consideration; published through Toyota's internal intellectual-property disclosure process.",
+        "url": ""
+      },
+      {
+        "period": "2023",
+        "type": "IEEE ICCIT 2023 · Co-author",
+        "title": "Depression Level Classification on Real-Time Data using Machine Learning and Data Mining Techniques",
+        "detail": "26th International Conference on Computer and Information Technology (ICCIT), IEEE. Evaluated multiclass severity on 392 records and 9 features; Random Forest achieved ~77% accuracy (F1: 0.725, MAE: 0.271).",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10441106/"
+      },
+      {
+        "period": "2021",
+        "type": "IEEE EICT 2021 · First Author",
+        "title": "Protein Secondary Structure Prediction using Graph Neural Network",
+        "detail": "5th International Conference on Electrical Information and Communication Technology (EICT), IEEE. Achieved 76.89% 8-state prediction accuracy on ccPDB 2.0 using graph node-aggregation and SVM.",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9733590/"
+      }
+    ],
+    "scholarLabel": "Google Scholar",
+    "kaggleLabel": "Kaggle (122 Upvotes · 503 Forks)"
+  },
+  "certifications": {
+    "title": "Certifications & Training",
+    "languagesLabel": "Languages: Bangla (Native) · English (Fluent · TOEIC 985) · Japanese (Business / Speaking above N2 level) · Hindi (Conversational)",
+    "items": [
+      {
+        "date": "Nov 2026",
+        "title": "TOEIC Listening & Reading IP Test — Score: 985",
+        "org": "ETS / IIEC",
+        "detail": "Demonstrated near-native English reading and listening proficiency."
+      },
+      {
+        "date": "Dec 2023",
+        "title": "Japanese-Language Proficiency Test (JLPT) N3",
+        "org": "JEES / Japan Foundation",
+        "detail": "Certified N3; daily business speaking proficiency above N2 level (preparing for N2)."
+      },
+      {
+        "date": "Nov 2022",
+        "title": "Japanese NAT-TEST Level 4",
+        "org": "Senmon Kyouiku Publishing",
+        "detail": "Passed Japanese proficiency examination Level 4."
+      },
+      {
+        "date": "Apr – Sep 2022",
+        "title": "B-JET (Bangladesh-Japan ICT Engineers' Training Program)",
+        "org": "JICA / BCC",
+        "detail": "5-month intensive Japanese language and Japanese business engineering training."
+      },
+      {
+        "date": "Nov 2021",
+        "title": "ITEE Fundamental Information Technology Engineer (FE)",
+        "org": "IPA Japan / BD-ITEC",
+        "detail": "National IT Engineers Examination governed by IPA, Japan."
+      },
+      {
+        "date": "Apr 2020",
+        "title": "Neural Networks and Deep Learning",
+        "org": "deeplearning.ai (Coursera)",
+        "detail": "Deep understanding of neural network architectures and backpropagation."
+      },
+      {
+        "date": "Apr 2020",
+        "title": "Machine Learning",
+        "org": "Stanford Online (Coursera)",
+        "detail": "Foundations of supervised/unsupervised learning algorithms."
+      },
+      {
+        "date": "Apr 2018",
+        "title": "iOS Application Development Training",
+        "org": "Nascenia (at KUET)",
+        "detail": "2-day intensive workshop building iOS apps in Swift."
+      }
+    ],
+    "languagesTitle": "Languages",
+    "languages": [
+      {
+        "name": "English",
+        "level": "Fluent · TOEIC 985",
+        "percent": 99.49,
+        "note": "Daily technical & research communication"
+      },
+      {
+        "name": "Japanese",
+        "level": "Speaking (N2+) · Listening (N1)",
+        "percent": 90,
+        "note": "JLPT N3 certified; daily meetings & docs in Japanese"
+      },
+      {
+        "name": "Bangla",
+        "level": "Native",
+        "percent": 100,
+        "note": "Mother tongue"
+      },
+      {
+        "name": "Hindi",
+        "level": "Conversational",
+        "percent": 50,
+        "note": "Everyday spoken communication"
+      }
+    ]
+  }
+}
